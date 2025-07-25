@@ -1,0 +1,11 @@
+fruit-ninja-ai/
+├── main.py
+├── requirements.txt
+├── README.md
+├── assets/
+│   ├── background.jpg
+│   ├── slash.png
+│   └── fruit_images/
+│       ├── apple.png
+│       ├── banana.png
+│       └── bomb.png
